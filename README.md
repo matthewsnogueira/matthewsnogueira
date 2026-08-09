@@ -1,12 +1,14 @@
-# Olá, eu sou Matheus Nogueira!
+# Hi, I'm Matheus Nogueira!
 
-**Estudante de Engenharia de Software | Desenvolvedor em formação**
+**Software Engineering Student | Developer in Training**
 
-Atualmente, estou desenvolvendo minhas habilidades em **Python, JavaScript e Backend**, criando projetos para colocar em prática meus conhecimentos em programação e Engenharia de Software.
+I'm currently studying **Software Engineering** and developing my skills in **Python, JavaScript, and Backend Development**.
+
+I'm focused on building practical projects, improving my programming skills, and learning how to design and develop reliable software solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/matheussiqueiramse/)
 
-## Tecnologias
+## Technologies
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -17,16 +19,16 @@ Atualmente, estou desenvolvendo minhas habilidades em **Python, JavaScript e Bac
   <img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
 
-## GitHub Stats
-
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewsnogueira\&show_icons=true\&theme=dark)
-
-## Atualmente estudando
+## Currently Learning
 
 * Python
 * JavaScript
-* Backend
+* Backend Development
 * APIs
-* Git e GitHub
-* Desenvolvimento Web
-* Engenharia de Software
+* Git & GitHub
+* Web Development
+* Software Engineering
+
+## GitHub Stats
+
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewsnogueira\&show_icons=true\&theme=dark)
