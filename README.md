@@ -7,7 +7,7 @@ I'm currently studying **Software Engineering** and developing my skills in **Py
 I'm focused on building practical projects, improving my programming skills, and learning how to design and develop reliable software solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/matheussiqueiramse/)
-[![Instagram](https://www.instagram.com/matheus_xcvii?igsh=MThubjY5cm8zcmgzeA%3D%3D&utm_source=qr)
+https://www.instagram.com/matheus_xcvii?igsh=MThubjY5cm8zcmgzeA%3D%3D&utm_source=qr)
 ## Technologies
 
 <div style="display: inline_block"><br>
